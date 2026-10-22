@@ -1,0 +1,31 @@
+,,,RMSE,R2
+Random split,d33,MLR,0.0052,1.0
+Random split,d33,Random Forest,0.0913,0.9996
+Random split,d33,PCR,0.0212,1.0
+Random split,d33,SVR,0.0096,1.0
+Random split,d33,GPR,0.0001,1.0
+Random split,Band Gap,MLR,0.0036,1.0
+Random split,Band Gap,Random Forest,0.0194,0.9994
+Random split,Band Gap,PCR,0.0052,1.0
+Random split,Band Gap,SVR,0.0082,0.9999
+Random split,Band Gap,GPR,0.0006,1.0
+Extrapolation (Sc > 70%),d33,MLR,0.112,0.9939
+Extrapolation (Sc > 70%),d33,Random Forest,2.969,-3.2646
+Extrapolation (Sc > 70%),d33,PCR,0.0891,0.9962
+Extrapolation (Sc > 70%),d33,SVR,4.9645,-10.9238
+Extrapolation (Sc > 70%),d33,GPR,0.1121,0.9939
+Extrapolation (Sc > 70%),Band Gap,MLR,0.0824,0.1469
+Extrapolation (Sc > 70%),Band Gap,Random Forest,0.1852,-3.3025
+Extrapolation (Sc > 70%),Band Gap,PCR,0.0149,0.9722
+Extrapolation (Sc > 70%),Band Gap,SVR,0.6938,-59.4207
+Extrapolation (Sc > 70%),Band Gap,GPR,0.2494,-6.8068
+Sc only,d33,MLR,0.0409,0.9999
+Sc only,d33,Random Forest,0.1105,0.9994
+Sc only,d33,PCR,0.0409,0.9999
+Sc only,d33,SVR,0.0078,1.0
+Sc only,d33,GPR,0.0067,1.0
+Sc only,Band Gap,MLR,0.2007,0.9321
+Sc only,Band Gap,Random Forest,0.0226,0.9991
+Sc only,Band Gap,PCR,0.2007,0.9321
+Sc only,Band Gap,SVR,0.0084,0.9999
+Sc only,Band Gap,GPR,0.0045,1.0
